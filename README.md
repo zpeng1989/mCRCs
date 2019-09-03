@@ -1,2 +1,2 @@
-# A computational framework for multi-region exome data analysis
-This repository contains the bioinformatics pipelines for analyzing (multi-region) whole-exome sequencing data of metastatic colorectal cancers (mCRC) in our upcoming study (Hu et al. 2019).
+# 一个用于多区域外显子组数据分析的计算框架
+该知识库包含了用于分析(多区域)转移性结直肠癌(mCRC)全外显子组测序数据的生物信息学管道(Hu et al. 2019)。
